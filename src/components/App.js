@@ -19,7 +19,7 @@ function Home() {
 function About() {
   return (
     <div id="about">
-      <h2>About</h2>
+      <h2>about</h2>
     </div>
   )
 }
@@ -30,7 +30,7 @@ function App() {
   return (
     <div>
       <NavBar />
-      <Home />/
+      <Home />
       <About />
     </div>
   );
